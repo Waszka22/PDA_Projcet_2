@@ -5,11 +5,14 @@
 
 ***
 
-This repository is used for the project given by the lecture on Programming for Data Analysis module on <em><strong>Higher Diploma in Science in Computing in Data Analytics at ATU</strong></em>. This repository contains the Jupyter notebook <code>PfDA_Assigment.ipynb</code> and data files. 
+This repository is used for the project given by the lecture on Programming for Data Analysis module on <em><strong>Higher Diploma in Science in Computing in Data Analytics at ATU</strong></em>. This repository contains the Jupyter notebook <code>PDA_Project_2.ipynb</code> and data files.
+
+In this analysis, we aim to explore and visualize the CO2, temperature anomalies over the years, considering the unique reference periods for different regions. By leveraging this dataset, we seek to uncover patterns, trends, and potential correlations that contribute to a deeper understanding of climate dynamics.
 
 *** 
 
 ***
+
 ### Problem Statement
 
 For this project analysis of paleo-present climate data:
