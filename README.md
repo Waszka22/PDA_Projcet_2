@@ -1,6 +1,3 @@
-# PDA_Project_2
-
-
 ## Introduction
 
 ***
@@ -61,11 +58,11 @@ Applications used for project
 
 ### Important Library 
 Libraries used to complete project
-* [pandas](https://pandas.pydata.org/)
-* [numpy](https://numpy.org/)
-* [matplotlib](https://matplotlib.org/)
-* [seborn](https://seaborn.pydata.org/)
-* [random](https://docs.python.org/3/library/random.html)
-
+* [Pandas](https://pandas.pydata.org/)
+* [Numpy](https://numpy.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [Seborn](https://seaborn.pydata.org/)
+* [Random](https://docs.python.org/3/library/random.html)
+* [Scikit-learn](https://scikit-learn.org)
 
 
